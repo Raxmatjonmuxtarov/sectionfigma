@@ -1,0 +1,49 @@
+.css2{
+    position: relative;
+}
+.css1{
+    position: absolute;
+    top: 100px;
+    left: 110px;
+    border: 10px solid white;
+}
+header{
+    background: rgba(248, 248, 248, 1);
+}
+.location-section{
+    background-color:rgba(248, 248, 248, 1)
+}
+
+.card-position{
+    width: 290px;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    background: linear-gradient(0deg, rgba(0, 34, 72, 0.3), rgba(0, 34, 72, 0.3)),
+    linear-gradient(96.34deg, #989898 -0.03%, rgba(255, 255, 255, 0) 99.97%);
+
+
+}
+
+.card-section{
+    position: relative;
+}
+.Travel-section{
+    background-image: url("images/image 6 (1).png");
+    background-size: 100%;
+    height: 690px;
+    position: relative;
+}
+
+.vector-img{
+    position: absolute;
+    right: 0;
+}
+.travel-img{
+    position: absolute;
+    bottom: -70px;
+    right: 600px;
+}
